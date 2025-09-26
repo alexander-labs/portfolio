@@ -6,10 +6,10 @@ I use this space to share transcripts, reflections, and links to select recordin
 ---
 
 ## 🏆 Highlights
-- **Tournament Speech (2024)**  
+- **Tournament NOF Birch (2025)**  
   [Watch here](<https://youtu.be/vViNOu1AHWk>)  
   *Event:* Assigned Platform  
-  *Summary:* Focused on the importance of [insert short theme here].  
+  *Topic:* Library of Alexandria  
 
 ---
 
