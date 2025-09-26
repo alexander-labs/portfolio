@@ -18,7 +18,7 @@ Welcome! This is my collection of projects and interests: coding, math, speech &
 ## 🗂 Structure
 - **/coding/** → apps, scripts, notebooks  
 - **/math/** → solutions, proofs, notes  
-- **/speech-debate/** → transcripts + links to unlisted videos  
+- [**/speech-debate/**](./speech-debate) → transcripts + links to unlisted videos
 - **/music/** → programs, notes + recordings  
 - **/research/** → papers, posters, slides  
 
