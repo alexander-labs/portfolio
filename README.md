@@ -13,20 +13,18 @@ Exploring interesting math problems, proofs, and creative problem-solving.
 ---
 
 ## 💻 Coding
-Code labs and small projects I’ve built — experimenting, learning, and solving problems.  
+Small projects I’ve built — experimenting, learning, and solving problems.  
 
-- Calculator App (coming soon)  
-- Python Games (coming soon)  
-- Jupyter Notebooks (coming soon)  
+- Coming soon  
 
 ---
 
 ## 🔬 Research
 Passion projects across various topics — from history to science to technology.  
 
-- *Battle of the Bulge* — historical analysis  
-- *Terraforming* — future science exploration  
-- *Science in Film* — work in progress (WIP)  
+- *Battle of the Bulge* — historical analysis (Fall 2024) [will add presentation soon]
+- *Terraforming* — future science exploration (Spring 2024) [will add presentation soon]
+- *Science in Film* — work in progress (2025) [currently working on this]  
 
 ---
 
