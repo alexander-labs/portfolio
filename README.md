@@ -7,9 +7,7 @@ Welcome! This is my collection of projects and interests: coding, math, speech &
 ## 🧮 Math
 Exploring interesting math problems, proofs, and creative problem-solving.  
 
-- [Algebra Problem Set Solutions](/math/algebra-problems.pdf)  
-- [Geometry Proofs Collection](/math/geometry-proofs.pdf)  
-- [Number Theory Practice](/math/number-theory.pdf)  
+- [Fibonacci Numbers Exploration (Sept 2025)](/math/fibonacci-numbers-2025-09-26.pdf)  
 
 ---
 
