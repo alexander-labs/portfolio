@@ -1,6 +1,6 @@
 # Alexander — Portfolio
 
-Welcome! This is my collection of projects and interests: I enjoy everything from history to science, technology, psychology, and beyond.  
+Welcome! This is my collection of projects and interests: coding, math, speech & debate, music, and research.  
 
 ---
 
