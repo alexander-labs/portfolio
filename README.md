@@ -35,7 +35,8 @@ Passion projects across various topics — from history to science to technology
 
 - *Battle of the Bulge* — historical analysis (Fall 2024) [will add presentation soon]
 - *Terraforming* — future science exploration (Spring 2024) [will add presentation soon]
-- *Science in Film* — work in progress (2025) [currently working on this]  
+- *Science in Film* — work in progress (2025) [currently working on this]
+- [Eat History (June 2024)](/research/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
 
 ---
 
