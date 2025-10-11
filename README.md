@@ -73,7 +73,9 @@ Vocal and theater — concerts, acting, and performances on stage.
 
 - [Vocal Repertoire Sheet (Sept 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)
 - San Francisco Symphony (December 2025)
-- SF Giants National Anthem as part of Ragazzi Chorus (April 2025)
+- SF Giants National Anthem as part of Ragazzi Chorus (April 2025)  
+  [📸 Photo 1](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-1.jpg)  
+  [📸 Photo 2](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-2.jpg)
 - Honors Performance Series (January 2025) - Carnegie Hall: *Vocal*  
   - [“Somewhere Over the Rainbow” — Harold Arlen](/music/somewhere-over-the-rainbow-2025-02-10.mp3)  
   - [“Caro Mio Ben” — Giuseppe Giordani](/music/caro-mio-ben-2025-02-10.mp3) 
