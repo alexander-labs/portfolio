@@ -12,7 +12,9 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
 - [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
 - Art of Problem Solving (October 2025) - Counting and Probability
+  - Written Solutions
 - Art of Problem Solving (August 2025) - Algebra B
+  - Written Solutions
 - Art of Problem Solving (June 2025) - Algebra A
 - NorCal ARML Team (May 2025)
 - Russian School of Mathmatics (June 2025) - Principal's Award
