@@ -59,8 +59,11 @@ Vocal and theater — concerts, acting, and performances on stage.
 
 - [Vocal Repertoire Sheet (Sept 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)
 - Honors Performance Series (January 2025) - Carnegie Hall: *Vocal*
+  - (Application vocal recordings) 
 - [Cresent City Choral Festival (June 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)](https://www.neworleanschildrenschorus.org/crescent-city-choral-festival) - New Orleans
 - San Diego Childrens Choral Festival (June 2024)
+- Helios School Talent Show, Over the Rainbow (January 2025)
+- Oz in Wizard of Oz Musical (April 2024)
 - Choir Performance (coming soon)  
 - Theater Skits (coming soon)  
 - Solo Recording (coming soon)  
