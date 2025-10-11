@@ -1,9 +1,8 @@
 # Alexander — Portfolio
+[alexander-labs.github.io/portfolio](https://alexander-labs.github.io/portfolio/)
 
 Welcome! 👋  
 This is my collection of projects and passions — from coding and math to speech, debate, music, and researching topics from science to history.
-
-<!-- View website at [alexander-labs.github.io/portfolio](https://alexander-labs.github.io/portfolio/) -->
 
 ---
 
