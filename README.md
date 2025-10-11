@@ -57,7 +57,7 @@ Performances and tournaments: sharing stories, building arguments, and practicin
 
 - [NOF Birch (Sept 2025)](https://www.youtube.com/watch?v=vViNOu1AHWk) — Assigned Platform: *Library of Alexandria* 🥉 Finalist  
 - NOF Cherry (2024) — Storytelling: *Interrupting Chicken* 🥇 1st Place  
-- Kennedy Middle School (2025) — Duo: *Mario and Luigi* 🥈 2nd Place  
+- Kennedy Middle School (2025) — [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place
 - NSDA Nationals (June 2025) — Informative: *Terraforming*  
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
 - The Harker School (Aug 2025) — Public Forum (TBD)
