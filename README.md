@@ -21,8 +21,8 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - Russian School of Mathmatics (June 2025) - Principal's Award
 - Math Kangaroo (March 2025) — Grade 5-6 🥉 National Winner
 - Russian School of Mathmatics - Honors Algebra and Geometry
-- Math Kangaroo (March 2023) — Grade 3-4 🥇 1st Place
-- Math Kangaroo (March 2022) — Grade 1-2 🥇 1st Place
+- Math Kangaroo (March 2023) — Grade 3-4 🥇 National 1st Place
+- Math Kangaroo (March 2022) — Grade 1-2 🥇 National 1st Place
 
 ---
 
