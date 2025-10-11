@@ -54,7 +54,8 @@ Performances and tournaments: sharing stories, building arguments, and practicin
 ## 🎶 Performing
 Vocal and theater — concerts, acting, and performances on stage.  
 
-- Honors Performance Series (Januar 2025) - Carnegie Hall: *Vocal*
+- [Vocal Repertoire Sheet (Sept 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)
+- Honors Performance Series (January 2025) - Carnegie Hall: *Vocal*
 - Choir Performance (coming soon)  
 - Theater Skits (coming soon)  
 - Solo Recording (coming soon)  
