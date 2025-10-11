@@ -5,14 +5,20 @@ Welcome! This is my collection of projects and interests: coding, math, speech &
 ---
 
 ## 🧮 Math
-Exploring interesting math problems, proofs, and math competitions.  
+Exploring interesting math problems, proofs, competitions, and courses.
 
+- Art of Problem Solving (Current) - Geometry
 - [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
 - [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
-- Russian School of Mathmatics (2025) - Principal's Award
-- Math Kangaroo (yyyy) — Grade 1-2 🥇 1st Place
-- Math Kangaroo (yyyy) — Grade 3-4 🥇 1st Place
-- Math Kangaroo (yyyy) — Grade 5-6 🥉 National Winner
+- Art of Problem Solving (October 2025) - Counting and Probability
+- Art of Problem Solving (August 2025) - Algebra B
+- Art of Problem Solving (June 2025) - Algebra A
+- NorCal ARML Team (May 2025)
+- Russian School of Mathmatics (June 2025) - Principal's Award
+- Math Kangaroo (March 2025) — Grade 5-6 🥉 National Winner
+- Russian School of Mathmatics - Honors Algebra and Geometry
+- Math Kangaroo (March 2023) — Grade 3-4 🥇 1st Place
+- Math Kangaroo (March 2022) — Grade 1-2 🥇 1st Place
 
 ---
 
