@@ -62,9 +62,9 @@ Performances and tournaments: sharing stories, building arguments, and practicin
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
 - The Harker School (Aug 2025) — Public Forum (TBD)
 - [League of Creative Minds (2024-2025)](https://www.creativedelegates.org/)
-  - more coming soon
+  - CA State Capitol debate
 - [League of Creative Minds (2025-2026)](https://www.creativedelegates.org/)
-  - more coming soon
+  - Stanford debate
 
 ---
 
