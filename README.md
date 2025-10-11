@@ -60,7 +60,11 @@ Performances and tournaments: sharing stories, building arguments, and practicin
 - Kennedy Middle School (2025) — Duo: *Mario and Luigi* 🥈 2nd Place  
 - NSDA Nationals (June 2025) — Informative: *Terraforming*  
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
-- The Harker School (Aug 2025) — Public Forum (TBD)  
+- The Harker School (Aug 2025) — Public Forum (TBD)
+- [League of Creative Minds (2024-2025)](https://www.creativedelegates.org/)
+  - more coming soon
+- [League of Creative Minds (2025-2026)](https://www.creativedelegates.org/)
+  - more coming soon
 
 ---
 
