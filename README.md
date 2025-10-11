@@ -1,7 +1,7 @@
 # Alexander — Portfolio
 
 Welcome! 👋  
-This is my collection of projects and interests: coding, math, speech & debate, music, and research.  
+This is my collection of projects and passions — from coding and math to speech, debate, music, and researching topics from science to history.
 
 This repository contains the source for my personal portfolio website.  
 👉 Visit the live site here: [alexander-labs.github.io/portfolio](https://alexander-labs.github.io/portfolio/)
