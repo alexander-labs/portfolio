@@ -7,7 +7,8 @@ Welcome! This is my collection of projects and interests: coding, math, speech &
 ## 🧮 Math
 Exploring interesting math problems, proofs, and creative problem-solving.  
 
-- [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-28.pdf)
+- [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
+- [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
 
 
 ---
