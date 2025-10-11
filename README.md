@@ -5,11 +5,14 @@ Welcome! This is my collection of projects and interests: coding, math, speech &
 ---
 
 ## 🧮 Math
-Exploring interesting math problems, proofs, and creative problem-solving.  
+Exploring interesting math problems, proofs, and math competitions.  
 
 - [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
 - [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
-
+- Russian School of Mathmatics (2025) - Principal's Award
+- Math Kangaroo (yyyy) — Grade 1-2 🥇 1st Place
+- Math Kangaroo (yyyy) — Grade 3-4 🥇 1st Place
+- Math Kangaroo (yyyy) — Grade 5-6 🥉 National Winner
 
 ---
 
@@ -44,6 +47,7 @@ Performances and tournaments: sharing stories, building arguments, and practicin
 ## 🎶 Performing
 Vocal and theater — concerts, acting, and performances on stage.  
 
+- Honors Performance Series (Januar 2025) - Carnegie Hall: *Vocal*
 - Choir Performance (coming soon)  
 - Theater Skits (coming soon)  
 - Solo Recording (coming soon)  
