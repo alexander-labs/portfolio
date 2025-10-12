@@ -46,24 +46,24 @@ Passion projects across various topics — from history to science to technology
 - Ship Sinking
 - Sierras
 - Local Tribes - Book and Story
-- [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis 
-- [*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
-- [Eat History (June 2024)](/research/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
+- 🎥[*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis 
+- 🎥[*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
+- 🎥[Eat History (June 2024)](/research/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
 
 ---
 
 ## 🎤 Speech & Debate
 Performances and tournaments: sharing stories, building arguments, and practicing public speaking.  
 
-- NOF Birch (Sept 2025) — [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
-- NOF Cherry (February 2025) — [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
-- Kennedy Middle School (2025) — [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place
+- NOF Birch (Sept 2025) — 🎥[Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
+- NOF Cherry (February 2025) — 🎥[Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
+- Kennedy Middle School (2025) — 🎥[Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place
 - NSDA Nationals (June 2025) — Informative: *Terraforming*  
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
 - The Harker School (Aug 2025) — Public Forum (TBD)
 - [League of Creative Minds (2024-2025)](https://www.creativedelegates.org/)
   - CA State Capitol debate
-  - [End-of-Year Middle School Gala (June 2025)](https://youtu.be/KicMbyTPo2s) at [Manny’s Community Space](https://welcometomannys.com/about)
+  - 🎥[End-of-Year Middle School Gala (June 2025)](https://youtu.be/KicMbyTPo2s) at [Manny’s Community Space](https://welcometomannys.com/about)
 - [League of Creative Minds (2025-2026)](https://www.creativedelegates.org/)
   - Stanford debate
 
@@ -78,12 +78,12 @@ Vocal and theater — concerts, acting, and performances on stage.
   [📸 Photo 1](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-1.jpg)  
   [📸 Photo 2](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-2.jpg)
 - Honors Performance Series (January 2025) - Carnegie Hall: *Vocal*  
-  - [🎥 “Somewhere Over the Rainbow” — Harold Arlen](/music/somewhere-over-the-rainbow-2025-02-10.mp3)  
-  - [🎥“Caro Mio Ben” — Giuseppe Giordani](/music/caro-mio-ben-2025-02-10.mp3) 
+  - 🎧[“Somewhere Over the Rainbow” — Harold Arlen](/music/somewhere-over-the-rainbow-2025-02-10.mp3)  
+  - 🎧[“Caro Mio Ben” — Giuseppe Giordani](/music/caro-mio-ben-2025-02-10.mp3) 
 - [Cresent City Choral Festival (June 2025)](https://www.neworleanschildrenschorus.org/crescent-city-choral-festival) - New Orleans
-- [Simple Gifts by Joseph Brackett – Middle School Graduation Ceremony (June 2025)](https://youtu.be/3dV2Kt7yeLA)
+- 🎥[Simple Gifts by Joseph Brackett – Middle School Graduation Ceremony (June 2025)](https://youtu.be/3dV2Kt7yeLA)
 - San Diego Childrens Choral Festival (June 2024)
-- [School Talent Show (January 2025)](https://youtu.be/MOCJy9EuKK4) - Somewhere Over the Rainbow
+- 🎥[School Talent Show (January 2025)](https://youtu.be/MOCJy9EuKK4) - Somewhere Over the Rainbow
 - Oz in Wizard of Oz Musical (April 2024)
 - San Jose Nutcracker
 - Choir Performance (coming soon)  
