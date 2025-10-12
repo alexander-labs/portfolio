@@ -10,8 +10,8 @@ Exploring interesting math problems, proofs, competitions, and courses.
 
 - MATHCOUNTS Team (Current) - Helios School
 - Art of Problem Solving (Current) - Geometry
-- [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
-- [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
+- 📝 [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
+- 📝 [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
 - Art of Problem Solving (October 2025) - Counting and Probability
   - Written Solutions
 - Art of Problem Solving (August 2025) - Algebra B
@@ -45,7 +45,7 @@ Passion projects across various topics — from history to science to technology
 - Local Tribes - Book and Story
 - 🎥 [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis 
 - 🎥 [*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
-- 🎥 [Eat History (June 2024)](/research/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
+- 📝 [Eat History (June 2024)](/research/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
 
 ---
 
@@ -69,7 +69,7 @@ Performances and tournaments: sharing stories, building arguments, and practicin
 ## 🎶 Performing
 Vocal and theater — concerts, acting, and performances on stage.  
 
-- [Vocal Repertoire Sheet (Sept 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)
+- 📝 [Vocal Repertoire Sheet (Sept 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)
 - San Francisco Symphony (December 2025)
 - SF Giants National Anthem as part of Ragazzi Chorus (April 2025) 📸 [1](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-1.jpg) [2](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-2.jpg)  
 - Honors Performance Series (January 2025) - Carnegie Hall: *Vocal*  
