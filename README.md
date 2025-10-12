@@ -78,8 +78,8 @@ Vocal and theater — concerts, acting, and performances on stage.
   [📸 Photo 1](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-1.jpg)  
   [📸 Photo 2](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-2.jpg)
 - Honors Performance Series (January 2025) - Carnegie Hall: *Vocal*  
-  - [“Somewhere Over the Rainbow” — Harold Arlen](/music/somewhere-over-the-rainbow-2025-02-10.mp3)  
-  - [“Caro Mio Ben” — Giuseppe Giordani](/music/caro-mio-ben-2025-02-10.mp3) 
+  - [🎥 “Somewhere Over the Rainbow” — Harold Arlen](/music/somewhere-over-the-rainbow-2025-02-10.mp3)  
+  - [🎥“Caro Mio Ben” — Giuseppe Giordani](/music/caro-mio-ben-2025-02-10.mp3) 
 - [Cresent City Choral Festival (June 2025)](https://www.neworleanschildrenschorus.org/crescent-city-choral-festival) - New Orleans
 - [Simple Gifts by Joseph Brackett – Middle School Graduation Ceremony (June 2025)](https://youtu.be/3dV2Kt7yeLA)
 - San Diego Childrens Choral Festival (June 2024)
