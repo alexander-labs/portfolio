@@ -83,6 +83,7 @@ Vocal and theater — concerts, acting, and performances on stage.
 - San Jose Nutcracker
 - Unforgetable
 - Smile, Charlie Chaplin
+- 🎥 [*Smile* — Charlie Chaplin](https://youtu.be/HAFZfciBsRY)
 - Choir Performance (coming soon)  
 - Theater Skits (coming soon)  
 - Solo Recording (coming soon)  
