@@ -17,7 +17,10 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - Art of Problem Solving (August 2025) - Algebra B
   - Written Solutions
 - Art of Problem Solving (June 2025) - Algebra A
-- NorCal ARML Team (May 2025) 📸 [ [1](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-1.jpg) | [2](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-2.jpg) | [3](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-3.jpg) ]
+- NorCal ARML Team (May 2025) 
+  📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-1.jpg)
+  📸 [2](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-2.jpg)
+  📸 [3](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-3.jpg)
 - Russian School of Mathmatics (June 2025) - Principal's Award
 - Math Kangaroo (March 2025) — Grade 5-6 🥉 National Winner
 - Russian School of Mathmatics - Honors Algebra and Geometry
@@ -72,8 +75,8 @@ Vocal and theater — concerts, acting, and performances on stage.
 - [Vocal Repertoire Sheet (Sept 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)
 - San Francisco Symphony (December 2025)
 - SF Giants National Anthem as part of Ragazzi Chorus (April 2025)  
-  [📸 Photo 1](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-1.jpg)  
-  [📸 Photo 2](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-2.jpg)
+  📸 [1](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-1.jpg)  
+  📸 [2](https://github.com/alexander-labs/portfolio/raw/main/music/2025-04-21-sf-giants-national-anthem-2.jpg)  
 - Honors Performance Series (January 2025) - Carnegie Hall: *Vocal*  
   - 🎧 [“Somewhere Over the Rainbow” — Harold Arlen](/music/somewhere-over-the-rainbow-2025-02-10.mp3)  
   - 🎧 [“Caro Mio Ben” — Giuseppe Giordani](/music/caro-mio-ben-2025-02-10.mp3) 
