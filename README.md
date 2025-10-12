@@ -82,7 +82,6 @@ Vocal and theater — concerts, acting, and performances on stage.
 - Oz in Wizard of Oz Musical (April 2024)
 - San Jose Nutcracker
 - Unforgetable
-- Smile, Charlie Chaplin
 - 🎥 [*Smile* (August 2023) — Charlie Chaplin](https://youtu.be/HAFZfciBsRY)
 - Choir Performance (coming soon)  
 - Theater Skits (coming soon)  
