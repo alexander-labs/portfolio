@@ -77,7 +77,7 @@ Vocal and theater — concerts, acting, and performances on stage.
   - [“Somewhere Over the Rainbow” — Harold Arlen](/music/somewhere-over-the-rainbow-2025-02-10.mp3)  
   - [“Caro Mio Ben” — Giuseppe Giordani](/music/caro-mio-ben-2025-02-10.mp3) 
 - [Cresent City Choral Festival (June 2025)](https://www.neworleanschildrenschorus.org/crescent-city-choral-festival) - New Orleans
-- [Simple Gifts – Middle School Graduation Ceremony (June 2025)](https://youtu.be/3dV2Kt7yeLA)
+- [Simple Gifts by Joseph Brackett – Middle School Graduation Ceremony (June 2025)](https://youtu.be/3dV2Kt7yeLA)
 - San Diego Childrens Choral Festival (June 2024)
 - [School Talent Show (January 2025)](https://youtu.be/MOCJy9EuKK4) - Somewhere Over the Rainbow
 - Oz in Wizard of Oz Musical (April 2024)
