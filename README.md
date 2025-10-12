@@ -63,7 +63,7 @@ Performances and tournaments: sharing stories, building arguments, and practicin
 - The Harker School (Aug 2025) — Public Forum (TBD)
 - [League of Creative Minds (2024-2025)](https://www.creativedelegates.org/)
   - CA State Capitol debate
-  - [End-of-Year Middle School Gala (June 2025)](https://youtu.be/KicMbyTPo2s) — [Manny’s Community Space](https://welcometomannys.com/about)
+  - [End-of-Year Middle School Gala (June 2025)](https://youtu.be/KicMbyTPo2s) at [Manny’s Community Space](https://welcometomannys.com/about)
 - [League of Creative Minds (2025-2026)](https://www.creativedelegates.org/)
   - Stanford debate
 
