@@ -83,6 +83,8 @@ Vocal and theater — concerts, acting, and performances on stage.
 - 🎥 [School Talent Show (January 2025)](https://youtu.be/MOCJy9EuKK4) - Somewhere Over the Rainbow
 - Oz in Wizard of Oz Musical (April 2024)
 - San Jose Nutcracker
+- Unforgetable
+- Smile, Charlie Chaplin
 - Choir Performance (coming soon)  
 - Theater Skits (coming soon)  
 - Solo Recording (coming soon)  
