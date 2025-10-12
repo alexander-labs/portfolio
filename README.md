@@ -17,7 +17,10 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - Art of Problem Solving (August 2025) - Algebra B
   - Written Solutions
 - Art of Problem Solving (June 2025) - Algebra A
-- NorCal ARML Team (May 2025)
+- NorCal ARML Team (May 2025)  
+  [📸 Photo 1](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-1.jpg)  
+  [📸 Photo 2](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-2.jpg)  
+  [📸 Photo 3](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-3.jpg)
 - Russian School of Mathmatics (June 2025) - Principal's Award
 - Math Kangaroo (March 2025) — Grade 5-6 🥉 National Winner
 - Russian School of Mathmatics - Honors Algebra and Geometry
