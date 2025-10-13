@@ -53,6 +53,7 @@ Passion projects across various topics — from history to science to technology
 ## 🎤 Speech & Debate
 Performances and tournaments: sharing stories, building arguments, and practicing public speaking.  
 
+- NOF Oak (Oct 2025) - 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs)
 - NOF Birch (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
 - NOF Cherry (February 2025) — 🎥 [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
 - Kennedy Middle School (2025) — 🎥 [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place
