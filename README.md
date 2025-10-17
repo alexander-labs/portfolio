@@ -51,7 +51,7 @@ Passion projects across various topics — from history to science to technology
 ---
 
 ## 🎤 Speech & Debate
-I like exploring all kinds of public speaking — storytelling, debate, and Model UN — each one teaching me something new about communication and perspective.
+I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
 - NOF Oak (Oct 2025) - 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs)
 - NOF Birch (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
