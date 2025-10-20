@@ -13,6 +13,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - 📝 [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
 - 📝 [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
 - 📝 [Impartial Combinatorial Games (October 2025)](/math/impartial-combinatorial-games-2025-10-07.pdf)
+- 📝 [Symmetries (October 2025)](/math/symmetries-2025-10-14.pdf)
 - Art of Problem Solving (October 2025) - Counting and Probability
   - Written Solutions
 - Art of Problem Solving (August 2025) - Algebra B
