@@ -62,11 +62,9 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 - NSDA Nationals (June 2025) — Informative: *Terraforming*  
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
 - The Harker School (Aug 2025) — Public Forum (TBD)
-- [League of Creative Minds (2024-2025)](https://www.creativedelegates.org/)
-  - CA State Capitol debate
-  - 🎥 [End-of-Year Middle School Gala (June 2025)](https://youtu.be/KicMbyTPo2s) at [Manny’s Community Space](https://welcometomannys.com/about)
-- [League of Creative Minds (2025-2026)](https://www.creativedelegates.org/)
-  - Stanford debate
+- [League of Creative Minds](https://www.creativedelegates.org/) — CA State Capitol Debate (Sacramento, April 2025)
+- [League of Creative Minds](https://www.creativedelegates.org/) — End-of-Year Middle School Gala at Manny’s Community Space (San Francisco, June 2025)
+- [League of Creative Minds](https://www.creativedelegates.org/) — Debate on Artificial Intelligence and Data Privacy (Palo Alto, October 2025)
 
 ---
 
