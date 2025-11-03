@@ -14,6 +14,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - 📝 [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
 - 📝 [Impartial Combinatorial Games (October 2025)](/math/impartial-combinatorial-games-2025-10-07.pdf)
 - 📝 [Symmetries (October 2025)](/math/symmetries-2025-10-14.pdf)
+- 📝 [Prime Numbers (October 2025)](/math/prime-numbers-2025-10-28.pdf)
 - Art of Problem Solving (October 2025) - Counting and Probability
   - Written Solutions
 - Art of Problem Solving (August 2025) - Algebra B
