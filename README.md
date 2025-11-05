@@ -55,7 +55,7 @@ Passion projects across various topics — from history to science to technology
 ## 🎤 Speech & Debate
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
-- NOF Oak (Oct 2025) - 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place
+- NOF Oak (Oct 2025) - 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place — Picket Fence (All 1s)
 - NOF Birch (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
 - NOF Cherry (February 2025) — 🎥 [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
 - Kennedy Middle School (2025) — 🎥 [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place
