@@ -10,11 +10,12 @@ Exploring interesting math problems, proofs, competitions, and courses.
 
 - MATHCOUNTS Team (Current) - Helios School
 - Art of Problem Solving (Current) - Geometry
-- 📝 [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
-- 📝 [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
-- 📝 [Impartial Combinatorial Games (October 2025)](/math/impartial-combinatorial-games-2025-10-07.pdf)
-- 📝 [Symmetries (October 2025)](/math/symmetries-2025-10-14.pdf)
+- 📝 [Euclidean Algorithm (November 2025)](/math/euclidean-algorithm-2025-11-04.pdf)
 - 📝 [Prime Numbers (October 2025)](/math/prime-numbers-2025-10-28.pdf)
+- 📝 [Symmetries (October 2025)](/math/symmetries-2025-10-14.pdf)
+- 📝 [Impartial Combinatorial Games (October 2025)](/math/impartial-combinatorial-games-2025-10-07.pdf)
+- 📝 [Thue-Morse Sequence (Sept 2025)](/math/thue-morse-sequence-2025-09-30.pdf)
+- 📝 [Fibonacci Numbers (Sept 2025)](/math/fibonacci-numbers-2025-09-23.pdf)
 - Art of Problem Solving (October 2025) - Counting and Probability
   - Written Solutions
 - Art of Problem Solving (August 2025) - Algebra B
@@ -91,4 +92,4 @@ Vocal and theater — concerts, acting, and performances on stage.
 
 ---
 
-*Last updated: Ocotber 2025*
+*Last updated: November 2025*
