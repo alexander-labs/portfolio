@@ -10,6 +10,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 
 - MATHCOUNTS Team (Current) - Helios School
 - Art of Problem Solving (Current) - Geometry
+- 📝 [Pascal's Triangle (November 2025)](/math/pascals-triangle-2025-11-11.pdf)
 - 📝 [Euclidean Algorithm (November 2025)](/math/euclidean-algorithm-2025-11-04.pdf)
 - 📝 [Prime Numbers (October 2025)](/math/prime-numbers-2025-10-28.pdf)
 - 📝 [Symmetries (October 2025)](/math/symmetries-2025-10-14.pdf)
