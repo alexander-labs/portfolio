@@ -38,7 +38,7 @@ Small projects I’ve built — experimenting, learning, and solving problems.
 
 ---
 
-## 🔬 Research
+## 🔬 Research & Creative Works
 Passion projects across various topics — from history to science to technology.  
 
 - *Science in Film* — work in progress (2025) [currently working on this]
