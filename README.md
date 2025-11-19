@@ -43,6 +43,7 @@ Passion projects across various topics — from history to science to technology
 
 - *Science in Film* — work in progress (2025) [currently working on this]
 - 🎥 [*The Science of Baking a Chocolate Chip Cookie* (2025)](https://www.youtube.com/watch?v=P4O-mNzxE5E&feature=youtu.be)
+- 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-
 - Pulitzer Prize Competition - Environmental Letter to United Nations
 - Silk Road - Diary
 - Podcast - Building Collapse
@@ -51,7 +52,7 @@ Passion projects across various topics — from history to science to technology
 - Local Tribes - Book and Story
 - 🎥 [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis 
 - 🎥 [*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
-- 📝 [Eat History (June 2024)](/research/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
+- 📝 [Eat History (June 2024)](/research-and-creative-works/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
 
 ---
 
