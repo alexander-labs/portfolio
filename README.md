@@ -43,8 +43,7 @@ Passion projects across various topics — from history to science to technology
 
 - *Science in Film* — work in progress (2025) [currently working on this]
 - 🎥 [*The Science of Baking a Chocolate Chip Cookie* (2025)](https://www.youtube.com/watch?v=P4O-mNzxE5E&feature=youtu.be)
-- 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-
-- Pulitzer Prize Competition - Environmental Letter to United Nations
+- 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
 - Silk Road - Diary
 - Podcast - Building Collapse
 - Ship Sinking
