@@ -25,7 +25,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - Art of Problem Solving (June 2025) - Algebra A
 - NorCal ARML Team (May 2025) 📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-1.jpg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-2.jpg) [3](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-3.jpg)
 - Russian School of Mathmatics (June 2025) - Principal's Award
-- Math Kangaroo (March 2025) — Grade 5-6 🥉 National Winner
+- Math Kangaroo (March 2025) — Grade 5-6 🥉 National Winner [News](https://www.smdailyjournal.com/community/class-notes-may-31-2025/article_81b1359f-fd69-4f0e-8a84-5d2f3ea9a533.html)
 - Russian School of Mathmatics - Honors Algebra and Geometry
 - Math Kangaroo (March 2023) — Grade 3-4 🥇 National 1st Place
 - Math Kangaroo (March 2022) — Grade 1-2 🥇 National 1st Place
@@ -63,7 +63,7 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 - NOF Oak (Oct 2025) — 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place — Picket Fence (All 1s)
 - NOF Birch (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
 - NOF Cherry (February 2025) — 🎥 [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
-- Kennedy Middle School (2025) — 🎥 [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place
+- Kennedy Middle School (2025) — 🎥 [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place [News](https://www.smdailyjournal.com/community/class-notes-alexander-friesen-takes-2nd-in-13th-annual-kennedy-middle-school-speech-tournament/article_7d0d5066-f384-4f6d-87cf-ae454599999b.html)
 - NSDA Nationals (June 2025) — Informative: *Terraforming*  
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
 - The Harker School (Aug 2025) — Public Forum (TBD)
