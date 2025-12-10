@@ -52,7 +52,7 @@ Passion projects across various topics — from history to science to technology
 - Ship Sinking
 - Sierras
 - Local Tribes - Book and Story
-- 🎥 [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis 
+- 🎥 [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis [📰](/news/Summer2025_Bugle_Page25.pdf)
 - 🎥 [*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
 - 📝 [Eat History (June 2024)](/research-and-creative-works/eat-history-2024-06-01.pdf) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
 
