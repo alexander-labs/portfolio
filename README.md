@@ -61,11 +61,11 @@ Passion projects across various topics — from history to science to technology
 ## 🎤 Speech & Debate
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
-- Pine Tournament, National Online Forensics  (Dec 2025) — 🎥 [Assigned Platform: *Disinformation*](https://youtu.be/iUSTlnAX2Y4)
-- Elm Tournament, National Online Forensics (Nov 2025) — 🎥 [Assigned Platform: *Water*](https://youtu.be/d8xfRNDVya0) 🥈 2nd Place
-- Oak Tournament, National Online Forensics (Oct 2025) — 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place — Picket Fence (All 1s)
-- Birch Tournament, National Online Forensics (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
-- Cherry Tournament, National Online Forensics (February 2025) — 🎥 [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
+- Pine NOF Tournament (Dec 2025) — 🎥 [Assigned Platform: *Disinformation*](https://youtu.be/iUSTlnAX2Y4)
+- Elm NOF Tournament (Nov 2025) — 🎥 [Assigned Platform: *Water*](https://youtu.be/d8xfRNDVya0) 🥈 2nd Place
+- Oak NOF Tournament (Oct 2025) — 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place — Picket Fence (All 1s)
+- Birch NOF Tournament (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
+- Cherry Tournament, National Online Forensics (NOF) (February 2025) — 🎥 [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
 - Kennedy Middle School (2025) — 🎥 [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place [📰](https://github.com/alexander-labs/portfolio/blob/main/news/Class%20Notes_%20Alexander%20F%20takes%202nd%20in%2013th%20annual%20Kennedy%20Middle%20School%20Speech%20Tournament%20_%20Community%20_%20smdailyjournal.com.pdf)
 - NSDA Nationals (June 2025) — Informative: *Terraforming*  
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
