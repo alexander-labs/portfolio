@@ -8,7 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
-- MATHCOUNTS Team (Current) - Helios School
+- MATHCOUNTS — Selected to represent Helios School at the Northwest Santa Clara Valley Chapter Competition (February 2026)
 - Art of Problem Solving (Current) - Geometry
 - MOEMS-M (November 2025)
 - 📝 [Pigeonhole Principle (December 2025)](/math/the-pigeonhole-principle-2025-12-02.pdf)
