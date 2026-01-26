@@ -9,8 +9,10 @@ This is my collection of projects and passions — from coding and math to speec
 Exploring interesting math problems, proofs, competitions, and courses.
 
 - MATHCOUNTS — Selected to represent Helios School at the Northwest Santa Clara Valley Chapter Competition (February 2026)
+- AMC-8 (January 2026)
 - Art of Problem Solving (Current) - Geometry
 - MOEMS-M (November 2025)
+- 📝 [Permutation Statistics (January 2026)](/math/permutation-statistics-2026-01-20.pdf)
 - 📝 [Permutations (January 2026)](/math/permutations-2026-01-13.pdf)
 - 📝 [Pigeonhole Principle (December 2025)](/math/the-pigeonhole-principle-2025-12-02.pdf)
 - 📝 [Counting Using Binomial Coefficients (November 2025)](/math/counting-using-binomial-coefficients-2025-11-18.pdf)
