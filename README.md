@@ -12,6 +12,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - AMC-8 (January 2026)
 - Art of Problem Solving (Current) - Geometry
 - MOEMS-M (November 2025)
+- 📝 [Invariants and Monovariants (January 2026)](/math/invariants-and-monovariants-2026-01-27.pdf)
 - 📝 [Permutation Statistics (January 2026)](/math/permutation-statistics-2026-01-20.pdf)
 - 📝 [Permutations (January 2026)](/math/permutations-2026-01-13.pdf)
 - 📝 [Pigeonhole Principle (December 2025)](/math/the-pigeonhole-principle-2025-12-02.pdf)
