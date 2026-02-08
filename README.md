@@ -83,6 +83,7 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 ## 🎶 Performing
 Vocal and theater — concerts, acting, and performances on stage.  
 
+- 🎥 [School Talent Show (February 2026)](https://www.youtube.com/watch?v=PvsO2BaK8gE) — *Any Dream Will Do* (*Joseph and the Technicolor Dreamcoat*)
 - San Francisco Symphony — [Holiday: Home Alone](https://www.sfsymphony.org/Buy-Tickets/2025-26/Holiday-Home-Alone) (December 2025) — Performed with the Ragazzi Boys Chorus [▶️ Watch performance](https://www.youtube.com/watch?v=a6hkxIRLtxo)
 - 🎥 Old First Concerts (San Francisco) — [*Rejoice!* with the Ragazzi Boys Chorus (December 2025)](https://www.youtube.com/live/9cNN7-qWdqM)  
 - 📝 [Vocal Repertoire Sheet (Sept 2025)](/music/vocal-repertoire-sheet-2025-09-01.pdf)
@@ -104,4 +105,4 @@ Vocal and theater — concerts, acting, and performances on stage.
 
 ---
 
-*Last updated: November 2025*
+*Last updated: February 2026*
