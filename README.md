@@ -72,15 +72,15 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 - Pine NOF Tournament (Dec 2025) — 🎥 [Assigned Platform: *Disinformation*](https://youtu.be/iUSTlnAX2Y4)
 - Elm NOF Tournament (Nov 2025) — 🎥 [Assigned Platform: *Water*](https://youtu.be/d8xfRNDVya0) 🥈 2nd Place
 - Oak NOF Tournament (Oct 2025) — 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place — Picket Fence (All 1s)
-- Birch NOF Tournament (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist  
-- Cherry NOF (National Online Forensics) Tournament (February 2025) — 🎥 [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
-- Kennedy Middle School (2025) — 🎥 [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place [📰](https://github.com/alexander-labs/portfolio/blob/main/news/Class%20Notes_%20Alexander%20F%20takes%202nd%20in%2013th%20annual%20Kennedy%20Middle%20School%20Speech%20Tournament%20_%20Community%20_%20smdailyjournal.com.pdf)
+- [League of Creative Minds](https://www.creativedelegates.org/) — Debate on Artificial Intelligence and Data Privacy (Palo Alto, October 2025)
+- Birch NOF Tournament (Sept 2025) — 🎥 [Assigned Platform: *Library of Alexandria*](https://www.youtube.com/watch?v=vViNOu1AHWk) 🥉 Finalist
+- The Harker School (Aug 2025) — Public Forum Debate
+- [League of Creative Minds](https://www.creativedelegates.org/) — End-of-Year Middle School Gala at Manny’s Community Space (San Francisco, June 2025)
 - NSDA Nationals (June 2025) — Informative: *Terraforming*  
 - NSDA Nationals (June 2025) — Humorous Interpretation: *Bobby Wilson*  
-- The Harker School (Aug 2025) — Public Forum (TBD)
 - [League of Creative Minds](https://www.creativedelegates.org/) — CA State Capitol Debate (Sacramento, April 2025)
-- [League of Creative Minds](https://www.creativedelegates.org/) — End-of-Year Middle School Gala at Manny’s Community Space (San Francisco, June 2025)
-- [League of Creative Minds](https://www.creativedelegates.org/) — Debate on Artificial Intelligence and Data Privacy (Palo Alto, October 2025)
+- Kennedy Middle School (April 2025) — 🎥 [Duo: *Mario and Luigi*](https://youtu.be/WGzxiJqxMIY) 🥈 2nd Place [📰](https://github.com/alexander-labs/portfolio/blob/main/news/Class%20Notes_%20Alexander%20F%20takes%202nd%20in%2013th%20annual%20Kennedy%20Middle%20School%20Speech%20Tournament%20_%20Community%20_%20smdailyjournal.com.pdf)
+- Cherry NOF (National Online Forensics) Tournament (February 2025) — 🎥 [Storytelling: *Interrupting Chicken*](https://youtu.be/k3g8DbtkXWE) 🥇 1st Place  
 
 ---
 
