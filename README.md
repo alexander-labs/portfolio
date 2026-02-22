@@ -68,7 +68,7 @@ Passion projects across various topics — from history to science to technology
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
 - Cherry NOF Tournament (Feb 2026) - [Informative: *Scent*](https://youtu.be/iUSTlnAX2Y4)
-- Amethyst NOF Tournament (Feb 2026) - [High School Platform: *Scent*] 🥈 2nd Place
+- Amethyst NOF Tournament (Feb 2026) - High School Platform: *Scent* 🥈 2nd Place
 - Pine NOF Tournament (Dec 2025) — 🎥 [Assigned Platform: *Disinformation*](https://youtu.be/iUSTlnAX2Y4)
 - Elm NOF Tournament (Nov 2025) — 🎥 [Assigned Platform: *Water*](https://youtu.be/d8xfRNDVya0) 🥈 2nd Place
 - Oak NOF Tournament (Oct 2025) — 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place — Picket Fence (All 1s)
