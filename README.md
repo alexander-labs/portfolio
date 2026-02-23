@@ -9,6 +9,7 @@ This is my collection of projects and passions — from coding and math to speec
 Exploring interesting math problems, proofs, competitions, and courses.
 
 - MATHCOUNTS — Selected to represent Helios School at the Northwest Santa Clara Valley Chapter Competition (February 2026)
+- 📝 [Identification of Spaces and Surfaces (February 2026)](/math/identification-spaces-and-surfaces-2026-02-17.pdf)
 - 📝 [Vertices, Edges, and Faces (February 2026)](/math/vertices-edges-faces-2026-02-10.pdf)
 - 📝 [Eulerian Paths and Circuits (February 2026)](/math/eulerian-paths-and-circuits-2026-02-03.pdf)
 - AMC-8 (January 2026)
