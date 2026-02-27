@@ -63,6 +63,15 @@ Passion projects across various topics — from history to science to technology
 
 ---
 
+## 🧪 Science
+
+Exploring scientific thinking through competition, collaboration, and problem-solving.
+
+- Science Olympiad (2025–2026) — Team Member  
+  - *Write It Do It* — Regional Competition (March 2025)
+
+---
+
 ## 🎤 Speech & Debate
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
