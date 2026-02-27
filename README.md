@@ -41,10 +41,8 @@ Exploring interesting math problems, proofs, competitions, and courses.
 
 ---
 
-## 💻 Coding
-Small projects I’ve built — experimenting, learning, and solving problems.  
-
-- Coming soon  
+## 💻 Coding & AI
+I've been experimenting with AI for building strategy games. I'll share something here later. 
 
 ---
 
