@@ -65,7 +65,7 @@ Passion projects across various topics — from history to science to technology
 
 ## 🧪 Science
 
-Exploring scientific thinking through competition, collaboration, and problem-solving.
+Interested in exploring science — trying different events, building things, and seeing what I enjoy most.
 
 - Science Olympiad (2025–2026) — Team Member  
   - *Write It Do It* — Regional Competition (March 2025)
