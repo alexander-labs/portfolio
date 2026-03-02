@@ -8,8 +8,8 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- 📝 [Modular Arithmetic (February 2026)](/math/modular-arithmetic-2026-02-24.pdf)
 - MATHCOUNTS — Northwest Santa Clara Valley Chapter Competition (February 2026) 🏆 Team Synergy Award 📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-1.jpeg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-2.jpeg)
-
 - 📝 [Identification of Spaces and Surfaces (February 2026)](/math/identification-spaces-and-surfaces-2026-02-17.pdf)
 - 📝 [Vertices, Edges, and Faces (February 2026)](/math/vertices-edges-faces-2026-02-10.pdf)
 - 📝 [Eulerian Paths and Circuits (February 2026)](/math/eulerian-paths-and-circuits-2026-02-03.pdf)
