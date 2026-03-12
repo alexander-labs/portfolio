@@ -74,6 +74,19 @@ Interested in exploring science — trying different events, building things, an
 
 ---
 
+## 🤝 Leadership & Service
+Mentoring younger students and volunteering in programs that support the community.
+
+- Conexión Buddy Leadership Program (2025–2026) — Selected as a Buddy to work with 1st–3rd graders at Connect Community Charter School (Redwood City). Led Puzzle Labs and Story Buddies sessions focused on perseverance, problem solving, and reading.
+
+- Student Ambassador (2025–2026) — Volunteered to welcome prospective students and families, share student work, and answer questions about the Helios school experience.
+
+- Village Elder Program (2025–2026) — Weekly playground mentor supporting younger students as they build and manage a collaborative “village,” helping resolve conflicts and encourage teamwork.
+
+- San Francisco–Marin Food Bank (2022) — Volunteered sorting donated fruit for distribution to families in need across San Francisco and Marin County.
+
+---
+
 ## 🎤 Speech & Debate
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
