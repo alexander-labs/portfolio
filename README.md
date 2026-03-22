@@ -110,6 +110,7 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 ## 🎶 Performing
 Vocal and theater — concerts, acting, and performances on stage.  
 
+- Mission Santa Clara at Santa Clara University, Ragazzi Chorus, [I am We Are](https://ragazzi.org/performances/archive/i-am-we-are/) (March 2026)
 - 🎥 [School Talent Show (February 2026)](https://www.youtube.com/watch?v=PvsO2BaK8gE) — *Any Dream Will Do* (*Joseph and the Amazing Technicolor Dreamcoat*)
 - San Francisco Symphony — [Holiday: Home Alone](https://www.sfsymphony.org/Buy-Tickets/2025-26/Holiday-Home-Alone) (December 2025) — Performed with the Ragazzi Boys Chorus [▶️ Watch performance](https://www.youtube.com/watch?v=a6hkxIRLtxo)
 - 🎥 Old First Concerts (San Francisco) — [*Rejoice!* with the Ragazzi Boys Chorus (December 2025)](https://www.youtube.com/live/9cNN7-qWdqM)  
