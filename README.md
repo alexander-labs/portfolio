@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- 📝 [Peano Axioms (March 2026)](/math/the-peano-axioms-2026-03-21.pdf)
 - 📝 [Vieta's Formulae (March 2026)](/math/2026-03-03-vietas-formulae.pdf)
 - 📝 [Modular Arithmetic (February 2026)](/math/modular-arithmetic-2026-02-24.pdf)
 - MATHCOUNTS — Northwest Santa Clara Valley Chapter Competition (February 2026) 🏆 Team Synergy Award 📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-1.jpeg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-2.jpeg)
