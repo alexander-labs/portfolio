@@ -73,7 +73,7 @@ Passion projects across various topics — from history to science to technology
 
 Interested in exploring science — trying different events, building things, and seeing what I enjoy most.
 
-- Science Olympiad *Write It Do It* [Regional Santa Clara Competition](https://scilympiad.com/santa-clara-so) (March 2025) 11th place (out of 45)
+- Science Olympiad *Write It Do It* [Regional Santa Clara Competition](https://scilympiad.com/santa-clara-so) (March 2025) 11th place (out of 45), first attempt at WIDI
 
 ---
 
