@@ -9,15 +9,18 @@ This is my collection of projects and passions — from coding and math to speec
 Exploring interesting math problems, proofs, competitions, and courses.
 
 - 📝 [Peano Axioms (March 2026)](/math/the-peano-axioms-2026-03-21.pdf)
+- Math Kangaroo (March 2026)
 - 📝 [Vieta's Formulae (March 2026)](/math/2026-03-03-vietas-formulae.pdf)
 - 📝 [Modular Arithmetic (February 2026)](/math/modular-arithmetic-2026-02-24.pdf)
-- MATHCOUNTS — Northwest Santa Clara Valley Chapter Competition (February 2026) 🏆 Team Synergy Award 📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-1.jpeg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-2.jpeg)
+- MATHCOUNTS — Northwest Santa Clara Valley Chapter (February 2026) 🏆 Team Synergy Award 📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-1.jpeg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-2.jpeg)
+- Bay Area Math Olympiad BAMO (February 2026) 
 - 📝 [Identification of Spaces and Surfaces (February 2026)](/math/identification-spaces-and-surfaces-2026-02-17.pdf)
 - 📝 [Vertices, Edges, and Faces (February 2026)](/math/vertices-edges-faces-2026-02-10.pdf)
 - 📝 [Eulerian Paths and Circuits (February 2026)](/math/eulerian-paths-and-circuits-2026-02-03.pdf)
+- IMC (February 2026)
 - AMC-8 (January 2026)
 - Art of Problem Solving (Current) - Geometry
-- MOEMS-M (November 2025)
+- MOEMS-M (Nov 2025 - March 2026)
 - 📝 [Invariants and Monovariants (January 2026)](/math/invariants-and-monovariants-2026-01-27.pdf)
 - 📝 [Permutation Statistics (January 2026)](/math/permutation-statistics-2026-01-20.pdf)
 - 📝 [Permutations (January 2026)](/math/permutations-2026-01-13.pdf)
