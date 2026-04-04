@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- 📝 [Basic Infinite Set Theory (March 2026)](/math/2026-03-31-basic-infinite-set-theory.pdf)
 - 📝 [Peano Axioms (March 2026)](/math/the-peano-axioms-2026-03-21.pdf)
 - Math Kangaroo (March 2026)
 - 📝 [Vieta's Formulae (March 2026)](/math/2026-03-03-vietas-formulae.pdf)
