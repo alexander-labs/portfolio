@@ -18,7 +18,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - 📝 [Identification of Spaces and Surfaces (February 2026)](/math/identification-spaces-and-surfaces-2026-02-17.pdf)
 - 📝 [Vertices, Edges, and Faces (February 2026)](/math/vertices-edges-faces-2026-02-10.pdf)
 - 📝 [Eulerian Paths and Circuits (February 2026)](/math/eulerian-paths-and-circuits-2026-02-03.pdf)
-- IMC (February 2026) 🥈 [Silver Medal](https://github.com/alexander-labs/portfolio/blob/main/math/219723-placement.jpg)
+- International Math Contest (IMC) (February 2026) 🥈 [Silver Medal](https://github.com/alexander-labs/portfolio/blob/main/math/219723-placement.jpg)
 - AMC-8 (January 2026)
 - Art of Problem Solving (Current) - Geometry
 - MOEMS-M (Nov 2025 - March 2026)
