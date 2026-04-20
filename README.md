@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- 📝 [Introduction to Game Theory (April 2026)](/math/2026-04-21-intro-game-theory.pdf)
 - 📝 [Knot Theory (April 2026)](/math/2026-04-14-knot-theory.pdf)
 - 📝 [Set (April 2026)](/math/set-2026-04-07.pdf)
 - 📝 [Basic Infinite Set Theory (March 2026)](/math/2026-03-31-basic-infinite-set-theory.pdf)
