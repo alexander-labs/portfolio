@@ -59,7 +59,7 @@ I've been experimenting with AI for building strategy games. I'll share somethin
 ## 🔬 Research & Creative Works
 Passion projects across various topics — from history to science to technology.  
 
-- *Science in Film* — work in progress (2025) [currently working on this]
+- 🎥 [*Scientific Inaccuracies in Film* (2026)](https://youtu.be/WpUlJiaAlys) — Presentation on how science is portrayed in film, featuring interviews with three experts connected to *Breaking Bad*, *Interstellar*, and *MythBusters*, plus a survey of 1,034 Americans on public perceptions of science in film
 - 🎥 [*The Science of Baking a Chocolate Chip Cookie* (2025)](https://www.youtube.com/watch?v=P4O-mNzxE5E&feature=youtu.be)
 - 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
 - Silk Road - Diary
