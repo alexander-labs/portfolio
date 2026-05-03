@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- 📝 [Gerrymandering (April 2026)](/math/2026-04-28-gerrymandering.pdf)
 - 📝 [Introduction to Game Theory (April 2026)](/math/2026-04-21-intro-game-theory.pdf)
 - 📝 [Knot Theory (April 2026)](/math/2026-04-14-knot-theory.pdf)
 - 📝 [Set (April 2026)](/math/set-2026-04-07.pdf)
