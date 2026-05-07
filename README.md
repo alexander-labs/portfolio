@@ -41,6 +41,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 
 ### 🏆 Competitions & Awards
 
+- NorCal ARML Team (May 2026)
 - Math Kangaroo — Grade 7–8, 🥉 National Winner (March 2026)
 - MATHCOUNTS — Northwest Santa Clara Valley Chapter, 🏆 Team Synergy Award (February 2026)  
   📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-1.jpeg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-2.jpeg)
