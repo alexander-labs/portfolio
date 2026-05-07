@@ -14,7 +14,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - 📝 [Set (April 2026)](/math/set-2026-04-07.pdf)
 - 📝 [Basic Infinite Set Theory (March 2026)](/math/2026-03-31-basic-infinite-set-theory.pdf)
 - 📝 [Peano Axioms (March 2026)](/math/the-peano-axioms-2026-03-21.pdf)
-- Math Kangaroo (March 2026)
+- Math Kangaroo (March 2026) — Grade 7-8 🥉 National Winner
 - 📝 [Vieta's Formulae (March 2026)](/math/2026-03-03-vietas-formulae.pdf)
 - 📝 [Modular Arithmetic (February 2026)](/math/modular-arithmetic-2026-02-24.pdf)
 - MATHCOUNTS — Northwest Santa Clara Valley Chapter (February 2026) 🏆 Team Synergy Award 📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-1.jpeg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-2.jpeg)
