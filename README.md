@@ -24,7 +24,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - 📝 [Eulerian Paths and Circuits (February 2026)](/math/eulerian-paths-and-circuits-2026-02-03.pdf)
 - International Math Contest (IMC) (February 2026) 🥈 [Silver Medal](https://github.com/alexander-labs/portfolio/blob/main/math/219723-placement.jpg)
 - AMC-8 (January 2026)
-- Art of Problem Solving (Current) - Geometry
+- Geometry, Art of Problem Solving (Sept 2025 - June 2026)
 - MOEMS-M (Nov 2025 - March 2026)
 - 📝 [Invariants and Monovariants (January 2026)](/math/invariants-and-monovariants-2026-01-27.pdf)
 - 📝 [Permutation Statistics (January 2026)](/math/permutation-statistics-2026-01-20.pdf)
