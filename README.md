@@ -61,11 +61,10 @@ Exploring interesting math problems, proofs, competitions, and courses.
 ### 📚 Courses & Programs
 
 - Art of Problem Solving — Number Theory (May 2026 – July 2026)
+- Euler Circle, Mathmatical Thinking (September 2025 - June 2026)
 - Art of Problem Solving — Geometry (September 2025 – June 2026)
 - Art of Problem Solving — Counting and Probability (October 2025)  
-  - Written Solutions
 - Art of Problem Solving — Algebra B (August 2025)  
-  - Written Solutions
 - Art of Problem Solving — Algebra A (June 2025)
 - Russian School of Mathematics — Honors Algebra and Geometry
 
