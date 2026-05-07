@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- Art of Problem Solving (May 2026 - July 2026) - Number Theory
 - 📝 [Gerrymandering (April 2026)](/math/2026-04-28-gerrymandering.pdf)
 - 📝 [Introduction to Game Theory (April 2026)](/math/2026-04-21-intro-game-theory.pdf)
 - 📝 [Knot Theory (April 2026)](/math/2026-04-14-knot-theory.pdf)
