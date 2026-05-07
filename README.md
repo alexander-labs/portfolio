@@ -52,6 +52,8 @@ Exploring interesting math problems, proofs, competitions, and courses.
   📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-1.jpg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-2.jpg) [3](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-3.jpg)
 - Russian School of Mathematics — Principal's Award (June 2025)
 - Math Kangaroo — Grade 5–6, 🥉 National Winner [📰](https://www.smdailyjournal.com/community/class-notes-may-31-2025/article_81b1359f-fd69-4f0e-8a84-5d2f3ea9a533.html) (March 2025)
+- Bay Area Math Olympiad BAMO (February 2025)
+- AMC 8 (January 2025)
 - Math Kangaroo — Grade 3–4, 🥇 National 1st Place (March 2023)
 - Math Kangaroo — Grade 1–2, 🥇 National 1st Place (March 2022)
 
