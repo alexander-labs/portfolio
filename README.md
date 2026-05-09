@@ -8,65 +8,53 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
-### 📝 Math Writeups
-
-#### 2026
-
-- [Gerrymandering](/math/2026-04-28-gerrymandering.pdf) — April 2026
-- [Introduction to Game Theory](/math/2026-04-21-intro-game-theory.pdf) — April 2026
-- [Knot Theory](/math/2026-04-14-knot-theory.pdf) — April 2026
-- [Set](/math/set-2026-04-07.pdf) — April 2026
-- [Basic Infinite Set Theory](/math/2026-03-31-basic-infinite-set-theory.pdf) — March 2026
-- [Peano Axioms](/math/the-peano-axioms-2026-03-21.pdf) — March 2026
-- [Vieta's Formulae](/math/2026-03-03-vietas-formulae.pdf) — March 2026
-- [Modular Arithmetic](/math/modular-arithmetic-2026-02-24.pdf) — February 2026
-- [Identification of Spaces and Surfaces](/math/identification-spaces-and-surfaces-2026-02-17.pdf) — February 2026
-- [Vertices, Edges, and Faces](/math/vertices-edges-faces-2026-02-10.pdf) — February 2026
-- [Eulerian Paths and Circuits](/math/eulerian-paths-and-circuits-2026-02-03.pdf) — February 2026
-- [Invariants and Monovariants](/math/invariants-and-monovariants-2026-01-27.pdf) — January 2026
-- [Permutation Statistics](/math/permutation-statistics-2026-01-20.pdf) — January 2026
-- [Permutations](/math/permutations-2026-01-13.pdf) — January 2026
-
-#### 2025
-
-- [Pigeonhole Principle](/math/the-pigeonhole-principle-2025-12-02.pdf) — December 2025
-- [Counting Using Binomial Coefficients](/math/counting-using-binomial-coefficients-2025-11-18.pdf) — November 2025
-- [Pascal's Triangle](/math/pascals-triangle-2025-11-11.pdf) — November 2025
-- [Euclidean Algorithm](/math/euclidean-algorithm-2025-11-04.pdf) — November 2025
-- [Prime Numbers](/math/prime-numbers-2025-10-28.pdf) — October 2025
-- [Symmetries](/math/symmetries-2025-10-14.pdf) — October 2025
-- [Impartial Combinatorial Games](/math/impartial-combinatorial-games-2025-10-07.pdf) — October 2025
-- [Thue-Morse Sequence](/math/thue-morse-sequence-2025-09-30.pdf) — September 2025
-- [Fibonacci Numbers](/math/fibonacci-numbers-2025-09-23.pdf) — September 2025
-
-### 🏆 Competitions & Awards
-
-- NorCal ARML Team (May 2026)
-- Math Kangaroo — Grade 7–8, 🥉 National Winner (March 2026)
-- MATHCOUNTS — Northwest Santa Clara Valley Chapter, 🏆 Team Synergy Award (February 2026)  
+- May 2026 – July 2026 — Art of Problem Solving — Number Theory
+- May 2026 — NorCal ARML Team
+- April 2026 — [Gerrymandering](/math/2026-04-28-gerrymandering.pdf)
+- April 2026 — [Introduction to Game Theory](/math/2026-04-21-intro-game-theory.pdf)
+- April 2026 — [Knot Theory](/math/2026-04-14-knot-theory.pdf)
+- April 2026 — [Set](/math/set-2026-04-07.pdf)
+- March 2026 — Math Kangaroo — Grade 7–8, 🥉 National Winner
+- March 2026 — [Basic Infinite Set Theory](/math/2026-03-31-basic-infinite-set-theory.pdf)
+- March 2026 — [Peano Axioms](/math/the-peano-axioms-2026-03-21.pdf)
+- March 2026 — [Vieta's Formulae](/math/2026-03-03-vietas-formulae.pdf)
+- February 2026 — International Math Contest — 🥈 [Silver Medal](https://github.com/alexander-labs/portfolio/blob/main/math/219723-placement.jpg)
+- February 2026 — [Modular Arithmetic](/math/modular-arithmetic-2026-02-24.pdf)
+- February 2026 — [Identification of Spaces and Surfaces](/math/identification-spaces-and-surfaces-2026-02-17.pdf)
+- February 2026 — [Vertices, Edges, and Faces](/math/vertices-edges-faces-2026-02-10.pdf)
+- February 2026 — [Eulerian Paths and Circuits](/math/eulerian-paths-and-circuits-2026-02-03.pdf)
+- February 2026 — MATHCOUNTS — Northwest Santa Clara Valley Chapter, 🏆 Team Synergy Award  
   📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-1.jpeg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2026-02-28-math-counts-2.jpeg)
-- Bay Area Math Olympiad BAMO (February 2026)
-- International Math Contest — 🥈 [Silver Medal](https://github.com/alexander-labs/portfolio/blob/main/math/219723-placement.jpg) (February 2026)
-- AMC 8 (January 2026)
-- MOEMS-M (November 2025 – March 2026)
-- NorCal ARML Team (May 2025)  
+- February 2026 — Bay Area Math Olympiad BAMO
+- January 2026 — [Invariants and Monovariants](/math/invariants-and-monovariants-2026-01-27.pdf)
+- January 2026 — [Permutation Statistics](/math/permutation-statistics-2026-01-20.pdf)
+- January 2026 — [Permutations](/math/permutations-2026-01-13.pdf)
+- January 2026 — AMC 8
+- November 2025 – March 2026 — MOEMS-M
+- December 2025 — [Pigeonhole Principle](/math/the-pigeonhole-principle-2025-12-02.pdf)
+- November 2025 — [Counting Using Binomial Coefficients](/math/counting-using-binomial-coefficients-2025-11-18.pdf)
+- November 2025 — [Pascal's Triangle](/math/pascals-triangle-2025-11-11.pdf)
+- November 2025 — [Euclidean Algorithm](/math/euclidean-algorithm-2025-11-04.pdf)
+- October 2025 — [Prime Numbers](/math/prime-numbers-2025-10-28.pdf)
+- October 2025 — [Symmetries](/math/symmetries-2025-10-14.pdf)
+- October 2025 — [Impartial Combinatorial Games](/math/impartial-combinatorial-games-2025-10-07.pdf)
+- October 2025 — Art of Problem Solving — Counting and Probability
+- September 2025 – June 2026 — Euler Circle — Mathematical Thinking
+- September 2025 – June 2026 — Art of Problem Solving — Geometry
+- September 2025 — [Thue-Morse Sequence](/math/thue-morse-sequence-2025-09-30.pdf)
+- September 2025 — [Fibonacci Numbers](/math/fibonacci-numbers-2025-09-23.pdf)
+- August 2025 — Art of Problem Solving — Algebra B
+- June 2025 — Art of Problem Solving — Algebra A
+- June 2025 — Russian School of Mathematics — Principal's Award
+- May 2025 — NorCal ARML Team  
   📸 [1](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-1.jpg) [2](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-2.jpg) [3](https://github.com/alexander-labs/portfolio/raw/main/math/2025-05-31-arml-3.jpg)
-- Russian School of Mathematics — Principal's Award (June 2025)
-- Math Kangaroo — Grade 5–6, 🥉 National Winner [📰](https://www.smdailyjournal.com/community/class-notes-may-31-2025/article_81b1359f-fd69-4f0e-8a84-5d2f3ea9a533.html) (March 2025)
-- Bay Area Math Olympiad BAMO (February 2025)
-- AMC 8 (January 2025)
-- Math Kangaroo — Grade 3–4, 🥇 National 1st Place (March 2023)
-- Math Kangaroo — Grade 1–2, 🥇 National 1st Place (March 2022)
-
-### 📚 Courses & Programs
-
-- Art of Problem Solving — Number Theory (May 2026 – July 2026)
-- Euler Circle, Mathmatical Thinking (September 2025 - June 2026)
-- Art of Problem Solving — Geometry (September 2025 – June 2026)
-- Art of Problem Solving — Counting and Probability (October 2025)  
-- Art of Problem Solving — Algebra B (August 2025)  
-- Art of Problem Solving — Algebra A (June 2025)
+- March 2025 — Math Kangaroo — Grade 5–6, 🥉 National Winner [📰](https://www.smdailyjournal.com/community/class-notes-may-31-2025/article_81b1359f-fd69-4f0e-8a84-5d2f3ea9a533.html)
+- February 2025 — Bay Area Math Olympiad BAMO
+- January 2025 — AMC 8
 - Russian School of Mathematics — Honors Algebra and Geometry
+- March 2023 — Math Kangaroo — Grade 3–4, 🥇 National 1st Place
+- March 2022 — Math Kangaroo — Grade 1–2, 🥇 National 1st Place
+
 
 ---
 
@@ -116,6 +104,7 @@ Mentoring younger students and volunteering in programs that support the communi
 ## 🎤 Speech & Debate
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
+- California State Finals Tournament, BEST Foundation - Informative - Scent - 🥈 2nd Place (May 2026)
 - [Bay Area Middle School Championship](https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=38953) (April 2026) — Expository Speaking 🥉 3rd Place
 - Maple NOF Tournament (April 2026) — 🎥 [Informative: *Scent*](https://youtu.be/RGZO4b7aoNY) 🥇 1st Place
 - Cherry NOF Tournament (Feb 2026) - [Informative: *Scent*](https://youtu.be/K2BFOYB2vA0)
