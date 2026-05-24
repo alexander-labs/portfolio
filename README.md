@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- May 2026 — [Deterministic Finite Automata and Regular Languages](/math/2026-05-19-deterministic-finite-automata-and-regular-languages.pdf)
 - May 2026 — [Inequalities of Means](/math/2026-05-12-inequalities-of-means.pdf)
 - May 2026 — [Probability Paradoxes](/math/probability-paradoxes-2026-05-05.pdf)
 - May 2026 – July 2026 — Art of Problem Solving — Number Theory
