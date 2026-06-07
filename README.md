@@ -109,6 +109,8 @@ Mentoring younger students and volunteering in programs that support the communi
 ## 🎤 Speech & Debate
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
+- Nationals NOF Tournament Async (June 2026) - 🎥 [Informative: *Scent*](https://youtu.be/mVQKL5Ovklk)
+- Nationals NOF Tournament (June 2026) - Informative: *Scent* - Finalist
 - California State Finals Tournament, BEST Foundation - Informative - Scent - 🥈 2nd Place (May 2026)
 - [Bay Area Middle School Championship](https://www.tabroom.com/index/tourn/index.mhtml?tourn_id=38953) (April 2026) — Expository Speaking 🥉 3rd Place
 - Maple NOF Tournament (April 2026) — 🎥 [Informative: *Scent*](https://youtu.be/RGZO4b7aoNY) 🥇 1st Place
