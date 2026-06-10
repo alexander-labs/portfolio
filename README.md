@@ -89,6 +89,8 @@ Passion projects across various topics — from history to science to technology
 
 Interested in exploring science — trying different events, building things, and seeing what I enjoy most.
 
+- Science Fair on Designing a Microbe to address a Disease 
+- Science Lab on Germ Theory
 - Science Olympiad *Write It Do It* [Regional Santa Clara Competition](https://scilympiad.com/santa-clara-so) (March 2025) 11th place (out of 45), first attempt at WIDI
 
 ---
@@ -134,6 +136,7 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 ## 🎶 Performing
 Vocal and theater — concerts, acting, and performances on stage.  
 
+- Ragazzi Revue, Talent Show, Any Dream Will Do (June 2026)
 - [San Francisco Symphony — *The Lord of the Rings: The Return of the King* — Film with Live Orchestra](https://www.encoreplus.app/sfsymphony/lord-of-the-rings-return-of-the-king-with-live-orchestra-2026-sfs/) (April–May 2026) — Performed with the Ragazzi Boys Chorus
 - Mission Santa Clara at Santa Clara University, Ragazzi Chorus, [I am We Are](https://ragazzi.org/performances/archive/i-am-we-are/) (March 2026)
 - 🎥 [School Talent Show (February 2026)](https://www.youtube.com/watch?v=PvsO2BaK8gE) — *Any Dream Will Do* (*Joseph and the Amazing Technicolor Dreamcoat*)
