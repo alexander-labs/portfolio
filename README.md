@@ -137,7 +137,7 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 Vocal and theater — concerts, acting, and performances on stage.  
 
 - Ragazzi Revue, Talent Show, Any Dream Will Do (June 2026)
-- [San Francisco Symphony — *The Lord of the Rings: The Return of the King* — Film with Live Orchestra](https://www.encoreplus.app/sfsymphony/lord-of-the-rings-return-of-the-king-with-live-orchestra-2026-sfs/) (April–May 2026) — Performed with the Ragazzi Boys Chorus
+- [San Francisco Symphony — *The Lord of the Rings: The Return of the King* — Film with Live Orchestra](https://www.encoreplus.app/sfsymphony/lord-of-the-rings-return-of-the-king-with-live-orchestra-2026-sfs/) (April–May 2026) — Performed with the Ragazzi Boys Chorus 📝 [Letter from Maestro Young](/music/Letter%20from%20Maestro%20Young.pdf) 
 - Mission Santa Clara at Santa Clara University, Ragazzi Chorus, [I am We Are](https://ragazzi.org/performances/archive/i-am-we-are/) (March 2026)
 - 🎥 [School Talent Show (February 2026)](https://www.youtube.com/watch?v=PvsO2BaK8gE) — *Any Dream Will Do* (*Joseph and the Amazing Technicolor Dreamcoat*)
 - San Francisco Symphony — [Holiday: Home Alone](https://www.sfsymphony.org/Buy-Tickets/2025-26/Holiday-Home-Alone) (December 2025) — Performed with the Ragazzi Boys Chorus [▶️ Watch performance](https://www.youtube.com/watch?v=a6hkxIRLtxo)
