@@ -73,12 +73,7 @@ Passion projects across various topics — from history to science to technology
 
 - 🎥 [*Scientific Inaccuracies in Film* (2026)](https://youtu.be/WpUlJiaAlys) — Presentation on how science is portrayed in film, featuring interviews with three experts connected to *Breaking Bad*, *Interstellar*, and *MythBusters*, plus a survey of 1,034 Americans on public perceptions of science in film
 - 🎥 [*The Science of Baking a Chocolate Chip Cookie* (2025)](https://www.youtube.com/watch?v=P4O-mNzxE5E&feature=youtu.be)
-- 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
-- Silk Road - Diary
-- Podcast - Building Collapse
-- Ship Sinking
-- Sierras
-- Local Tribes - Book and Story
+
 - 🎥 [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis [📰](/news/Summer2025_Bugle_Page25.pdf)
 - 🎥 [*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
 - 📝 [Eat History (June 2024)](/research-and-creative-works/eat-history-2024-06-01.pdf) [🎥](https://youtu.be/y02ONwZeM0Q) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
@@ -94,6 +89,20 @@ Interested in exploring science — trying different events, building things, an
 - Science Lab on Germ Theory
 - Science Olympiad *Write It Do It* [Regional Santa Clara Competition](https://scilympiad.com/santa-clara-so) (March 2025) 11th place (out of 45), first attempt at WIDI
 
+---
+
+## 📚 Humanities
+
+Exploring history, philosophy, culture, and the human stories behind ideas.
+
+- Summer 2026 — [Stanford Continuing Studies — *Plato’s Republic and the Good Life*](https://continuingstudies.stanford.edu/courses/detail/20254_CLA-84) — Philosophy course exploring Plato’s *Republic*, justice, truth, knowledge, and what it means to live well.
+- 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
+- Silk Road - Diary
+- Podcast - Building Collapse
+- Ship Sinking
+- Sierras
+- Local Tribes - Book and Story
+  
 ---
 
 ## 🤝 Leadership & Service
