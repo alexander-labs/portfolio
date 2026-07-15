@@ -128,7 +128,7 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 - Maple NOF Tournament (April 2026) — 🎥 [Informative: *Scent*](https://youtu.be/RGZO4b7aoNY) 🥇 1st Place
 - Cherry NOF Tournament (Feb 2026) - [Informative: *Scent*](https://youtu.be/K2BFOYB2vA0)
 - Amethyst NOF Tournament (Feb 2026) - High School Platform: *Scent* 🥈 2nd Place
-- Pine NOF Tournament (Dec 2025) — 🎥 [Assigned Platform: *Disinformation*](https://youtu.be/iUSTlnAX2Y4)
+- Pine NOF Tournament (Dec 2025) — 🎥 High School [Assigned Platform: *Disinformation*](https://youtu.be/iUSTlnAX2Y4)
 - Elm NOF Tournament (Nov 2025) — 🎥 [Assigned Platform: *Water*](https://youtu.be/d8xfRNDVya0) 🥈 2nd Place
 - Oak NOF Tournament (Oct 2025) — 🎥 [Assigned Platform: *The Use of Scent in Marketing*](https://youtu.be/NA4SfwAHYQs) 🥇 1st Place — Picket Fence (All 1s)
 - [League of Creative Minds](https://www.creativedelegates.org/) — Debate on Artificial Intelligence and Data Privacy (Palo Alto, October 2025)
