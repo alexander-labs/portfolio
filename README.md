@@ -95,7 +95,7 @@ Interested in exploring science — trying different events, building things, an
 
 Exploring history, philosophy, culture, and the human stories behind ideas.
 
-- Summer 2026 — [Stanford Continuing Studies — *Plato’s Republic and the Good Life*](https://continuingstudies.stanford.edu/courses/detail/20254_CLA-84) — Philosophy course exploring Plato’s *Republic*, justice, truth, knowledge, and what it means to live well.
+- 📝 Plato’s Republic and the Good Life (CLA 84), Stanford Continuing Studies (Summer 2026) Final Exam Essays 
 - 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
 - Silk Road - Diary
 - Podcast - Building Collapse
