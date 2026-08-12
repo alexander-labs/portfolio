@@ -95,7 +95,7 @@ Interested in exploring science — trying different events, building things, an
 
 Exploring history, philosophy, culture, and the human stories behind ideas.
 
-- 📝 Plato’s Republic and the Good Life (CLA 84), Stanford Continuing Studies (Summer 2026) Final Exam Essays 
+- 📝 Plato’s Republic and the Good Life (CLA 84), Stanford Continuing Studies (Summer 2026) [Final Exam Essays](/writing/Plato's%20Republic%20Final%20Exam.pdf) 
 - 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
 - Silk Road - Diary
 - Podcast - Building Collapse
