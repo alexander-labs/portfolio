@@ -9,6 +9,7 @@ This is my collection of projects and passions — from coding and math to speec
 Exploring interesting math problems, proofs, competitions, and courses.
 
 - June 2026 — [The Koch Curve and Its Friends](/math/2026-06-02-the-koch-curve-and-its-friends.pdf)
+- May 2026 - [Backward Induction and Asymptotic Survival in the n-Pirate Game](/math/priates-game-math-circle-2026.JPEG)
 - May 2026 — [Voting Systems](/math/2026-05-26-voting-systems.pdf)
 - May 2026 — [Deterministic Finite Automata and Regular Languages](/math/2026-05-19-deterministic-finite-automata-and-regular-languages.pdf)
 - May 2026 — [Inequalities of Means](/math/2026-05-12-inequalities-of-means.pdf)
