@@ -128,6 +128,7 @@ Mentoring younger students and volunteering in programs that support the communi
 ## 🎤 Speech & Debate
 I’ve explored many forms of public speaking — storytelling, persuasive, informative, humorous, world debate, public forum, SPAR, Model UN, and more — learning how to think on my feet, share ideas, and connect with an audience.
 
+- National Speech & Debate Association — [Degree of Special Distinction](https://github.com/alexander-labs/portfolio/blob/main/speech-and-debate/special-distinction-speech-and-debate-certificate-2026.pdf) 🥉 (July 2026)
 - Nationals NOF Tournament Async (June 2026) - 🎥 [Informative: *Scent*](https://youtu.be/mVQKL5Ovklk) - Finalist, 🥈 2nd Place
 - Nationals NOF Tournament (June 2026) - Informative: *Scent* - Finalist, 🥉 3rd Place
 - California State Finals Tournament, BEST Foundation - Informative - Scent - 🥈 2nd Place (May 2026)
