@@ -19,7 +19,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - April 2026 — [Introduction to Game Theory](/math/2026-04-21-intro-game-theory.pdf)
 - April 2026 — [Knot Theory](/math/2026-04-14-knot-theory.pdf)
 - April 2026 — [Set](/math/set-2026-04-07.pdf)
-- March 2026 — Math Kangaroo — Grade 7–8, 🥉 [2026 Grade 7 National Winner](https://mathkangaroo.org/mks/national-and-state-winners/grade-7-national-winners/) [📝]()
+- March 2026 — Math Kangaroo — Grade 7–8, 🥉 [2026 Grade 7 National Winner](https://mathkangaroo.org/mks/national-and-state-winners/grade-7-national-winners/) [📝](/math/Alexander-Transcript-Helios%20School%20-%20Session%20One%20(Sunnyvale%20CA).pdf)
 - March 2026 — [Basic Infinite Set Theory](/math/2026-03-31-basic-infinite-set-theory.pdf)
 - March 2026 — [Peano Axioms](/math/the-peano-axioms-2026-03-21.pdf)
 - March 2026 — [Vieta's Formulae](/math/2026-03-03-vietas-formulae.pdf)
