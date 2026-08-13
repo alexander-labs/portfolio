@@ -88,7 +88,7 @@ Interested in exploring science — trying different events, building things, an
 - Genetically Enhanced Leptophages as a Solution to Leptospirosis Infections (May 2026) [📝](/science/genetically-enhanced-leptophages-as-a-solution-to-leptospirosis-infections.pdf) [📸](/science/leptophage.jpg)
 - A Comparative Study of Bacterial Contamination and Growth on Frequently Touched Dry Surfaces in Public Spaces (May 2026) [📝](/science/A%20Comparative%20Study%20of%20Bacterial%20Contamination%20and%20Growth%20on%20Frequently%20Touched%20Dry%20Surfaces%20in%20Public%20Spaces.pdf)
 - The Revolutionary Theory of Quantum Mechanics (January 2026) [📝](/science/The%20Revolutionary%20Theory%20of%20%20Quantum%20Mechanics.pdf)
-- Science Olympiad *Write It Do It* [Regional Santa Clara Competition](https://scilympiad.com/santa-clara-so) (March 2025) 11th place (out of 45), first attempt at WIDI
+- Science Olympiad *Write It Do It* [Regional Santa Clara Competition](https://scilympiad.com/santa-clara-so) (March 2025) 11th place (out of 45), first attempt at WIDI 📸 [1](https://github.com/alexander-labs/portfolio/blob/main/science/widi-2026.JPEG)
 
 ---
 
