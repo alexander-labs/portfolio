@@ -23,7 +23,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - March 2026 — [Basic Infinite Set Theory](/math/2026-03-31-basic-infinite-set-theory.pdf)
 - March 2026 — [Peano Axioms](/math/the-peano-axioms-2026-03-21.pdf)
 - March 2026 — [Vieta's Formulae](/math/2026-03-03-vietas-formulae.pdf)
-- February 2026 — International Math Contest — 🥈 [Silver Medal](https://github.com/alexander-labs/portfolio/blob/main/math/219723-placement.jpg) [📸]() 
+- February 2026 — International Math Contest — 🥈 [Silver Medal](https://github.com/alexander-labs/portfolio/blob/main/math/219723-placement.jpg) [📸](/math/imc-silver-medal-2026.JPEG) 
 - February 2026 — [Modular Arithmetic](/math/modular-arithmetic-2026-02-24.pdf)
 - February 2026 — [Identification of Spaces and Surfaces](/math/identification-spaces-and-surfaces-2026-02-17.pdf)
 - February 2026 — [Vertices, Edges, and Faces](/math/vertices-edges-faces-2026-02-10.pdf)
