@@ -85,8 +85,9 @@ Passion projects across various topics — from history to science to technology
 Interested in exploring science — trying different events, building things, and seeing what I enjoy most.
 
 - [Physics Alphastar F=ma](https://alphastar.academy/courses/physics/physfmab/) (July 2026): Kinematics, Dynamics, Circular Motion, Gravity, Work & Energy, Momentum & Collisions, Rotation & Torque, Angular Momentum, Periodic Motion, Fluids 
-- Genetically Enhanced Leptophages as a Solution to Leptospirosis Infections [📝](/science/genetically-enhanced-leptophages-as-a-solution-to-leptospirosis-infections.pdf) [📸](/science/leptophage.jpg)
+- Genetically Enhanced Leptophages as a Solution to Leptospirosis Infections (May 2026) [📝](/science/genetically-enhanced-leptophages-as-a-solution-to-leptospirosis-infections.pdf) [📸](/science/leptophage.jpg)
 - Science Lab on Germ Theory
+- The Revolutionary Theory of Quantum Mechanics (January 2026) [📝]()
 - Science Olympiad *Write It Do It* [Regional Santa Clara Competition](https://scilympiad.com/santa-clara-so) (March 2025) 11th place (out of 45), first attempt at WIDI
 
 ---
