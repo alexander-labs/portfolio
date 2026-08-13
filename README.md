@@ -104,7 +104,7 @@ Exploring history, philosophy, culture, and the human stories behind ideas.
 - American Society For The Prevention Of Cruelty To Animals, Petitioner V. Colossal Biosciences Inc., Respondent (May 2026) [📝](/writing/AMERICAN%20SOCIETY%20FOR%20THE%20PREVENTION%20OF%20CRUELTY%20TO%20ANIMALS%20PETITIONER%20v.%20COLOSSAL%20BIOSCIENCES%20INC.%20RESPONDENT.pdf) [🎥](https://youtu.be/hHAGVChePIE)
 - America as an Example of How a Revolution Can Have a Lasting Impact [📝](/humanities/America%20as%20an%20Example%20of%20How%20a%20Revolution%20Can%20Have%20a%20Lasting%20Impact.pdf)
 - 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
-- Silk Road - Diary
+- Diary Entries of Al-Biruni (973–1048 CE) – Persian scholar and polymath [📝](/humanities/Diary%20Entries%20of%20Al-Biruni%20(973–1048%20CE)%20–%20Persian%20scholar%20and%20polymath.pdf)
 - Podcast - Building Collapse
 - Ship Sinking
 - Sierras
