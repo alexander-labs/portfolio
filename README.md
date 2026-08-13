@@ -14,7 +14,7 @@ Exploring interesting math problems, proofs, competitions, and courses.
 - May 2026 — [Inequalities of Means](/math/2026-05-12-inequalities-of-means.pdf)
 - May 2026 — [Probability Paradoxes](/math/probability-paradoxes-2026-05-05.pdf)
 - May 2026 – July 2026 — Art of Problem Solving — Number Theory
-- May 2026 — NorCal ARML Team
+- May 2026 — NorCal ARML Team 📸 [1](https://github.com/alexander-labs/portfolio/blob/main/math/arml-2026-1.JPEG) [2](https://github.com/alexander-labs/portfolio/blob/main/math/arml-2026-2.JPEG) [3](https://github.com/alexander-labs/portfolio/blob/main/math/arml-2026-3.JPEG)
 - April 2026 — [Gerrymandering](/math/2026-04-28-gerrymandering.pdf)
 - April 2026 — [Introduction to Game Theory](/math/2026-04-21-intro-game-theory.pdf)
 - April 2026 — [Knot Theory](/math/2026-04-14-knot-theory.pdf)
