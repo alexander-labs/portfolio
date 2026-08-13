@@ -71,9 +71,9 @@ I've been experimenting with AI for building strategy games. I'll share somethin
 ## 🔬 Research & Creative Works
 Passion projects across various topics — from history to science to technology.  
 
-- 🎥 [*Scientific Inaccuracies in Film* (2026)](https://youtu.be/WpUlJiaAlys) — Presentation on how science is portrayed in film, featuring interviews with three experts connected to *Breaking Bad*, *Interstellar*, and *MythBusters*, plus a survey of 1,034 Americans on public perceptions of science in film
+- The Mathematical Theories and Applications of Emergence in Complex Systems (2026-2027) - Working on it now
+- 🎥 [*Scientific Inaccuracies in Film* (2025-2026)](https://youtu.be/WpUlJiaAlys) — Presentation on how science is portrayed in film, featuring interviews with three experts connected to *Breaking Bad*, *Interstellar*, and *MythBusters*, plus a survey of 1,034 Americans on public perceptions of science in film
 - 🎥 [*The Science of Baking a Chocolate Chip Cookie* (2025)](https://www.youtube.com/watch?v=P4O-mNzxE5E&feature=youtu.be)
-
 - 🎥 [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis [📰](/news/Summer2025_Bugle_Page25.pdf)
 - 🎥 [*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
 - 📝 [Eat History (June 2024)](/research-and-creative-works/eat-history-2024-06-01.pdf) [🎥](https://youtu.be/y02ONwZeM0Q) — A timeline cookbook exploring what people ate through history, with recipes and the technologies that shaped them
