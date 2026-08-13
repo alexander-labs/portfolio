@@ -75,7 +75,7 @@ I've been experimenting with AI for building strategy games. I'll share some of 
 Passion projects across various topics — from history to science to technology.  
 
 - The Mathematical Theories and Applications of Emergence in Complex Systems (2026-2027) - Working on it now
-- 🎥 [*Scientific Inaccuracies in Film* (2025-2026)](https://youtu.be/WpUlJiaAlys) — Presentation on how science is portrayed in film, featuring interviews with three experts connected to *Breaking Bad*, *Interstellar*, and *MythBusters*, plus a survey of 1,034 Americans on public perceptions of science in film
+- 🎥 [*Scientific Inaccuracies in Film* (2025-2026)](https://youtu.be/WpUlJiaAlys) — Presentation on how science is portrayed in film, featuring interviews with three experts connected to *Breaking Bad*, *Interstellar*, and *MythBusters*, plus a survey of 1,034 Americans on public perceptions of science in film [📝](/research/Science%20in%20Film.pdf)
 - 🎥 [*The Science of Baking a Chocolate Chip Cookie* (2025)](https://www.youtube.com/watch?v=P4O-mNzxE5E&feature=youtu.be)
 - 🎥 [*Battle of the Bulge* (May 2025)](https://youtu.be/WdsdaTepkgI) — WW2 Historical Analysis [📰](/news/Summer2025_Bugle_Page25.pdf)
 - 🎥 [*Terraforming* (January 2025)](https://youtu.be/sl7Gpluch-Y) - Building a 2nd Earth
