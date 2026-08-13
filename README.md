@@ -64,7 +64,9 @@ Exploring interesting math problems, proofs, competitions, and courses.
 ---
 
 ## 💻 Coding & AI
-I've been experimenting with AI for building strategy games. I'll share something here later. 
+I've been experimenting with AI for building strategy games. I'll share some of my projects here later. 
+
+- Art of Problem Solving, [Python 1](https://artofproblemsolving.com/school/course/python1) (September 2026)
 
 ---
 
@@ -92,10 +94,11 @@ Interested in exploring science — trying different events, building things, an
 
 ---
 
-## 📚 Humanities
+## 📚 Humanities and Language Arts
 
 Exploring history, philosophy, culture, and the human stories behind ideas.
 
+- Honors Language Arts 8: Nonfiction Writing and Exposition (Sept to June 2026) [Syllabus](https://data.artofproblemsolving.com/images/academy/syllabi/Level-8-Syllabus.pdf)
 - 📝 Plato’s Republic and the Good Life (CLA 84), Stanford Continuing Studies (Summer 2026) [Final Exam Essays](/writing/Plato's%20Republic%20Final%20Exam.pdf) 📸 [1](https://github.com/alexander-labs/portfolio/blob/main/humanities/plato-republic-1.JPEG) [2](https://github.com/alexander-labs/portfolio/blob/main/humanities/plato-republic-2.JPEG)
 - American Society For The Prevention Of Cruelty To Animals, Petitioner V. Colossal Biosciences Inc., Respondent (May 2026) [📝](/writing/AMERICAN%20SOCIETY%20FOR%20THE%20PREVENTION%20OF%20CRUELTY%20TO%20ANIMALS%20PETITIONER%20v.%20COLOSSAL%20BIOSCIENCES%20INC.%20RESPONDENT.pdf) [🎥](https://youtu.be/hHAGVChePIE)
 - 📝 [Pulitzer Local Letters for Global Change (2025)](/research-and-creative-works/pulitzer-local-letters-for-global-change-2025.pdf)
