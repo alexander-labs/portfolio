@@ -154,6 +154,7 @@ I’ve explored many forms of public speaking — storytelling, persuasive, info
 ## 🎶 Performing
 Vocal and theater — concerts, acting, and performances on stage.  
 
+- [L-O-V-E (August 2026) - Nat King Cole](https://youtu.be/Je-pN8otWE8)
 - Ragazzi Revue, Talent Show, Any Dream Will Do (June 2026)
 - [San Francisco Symphony — *The Lord of the Rings: The Return of the King* — Film with Live Orchestra](https://www.encoreplus.app/sfsymphony/lord-of-the-rings-return-of-the-king-with-live-orchestra-2026-sfs/) (April–May 2026) — Performed with the Ragazzi Boys Chorus 📝 [Letter from Maestro Young](/music/Letter%20from%20Maestro%20Young.pdf) 
 - Mission Santa Clara at Santa Clara University, Ragazzi Chorus, [I am We Are](https://ragazzi.org/performances/archive/i-am-we-are/) (March 2026)
