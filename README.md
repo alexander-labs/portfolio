@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- October 2026 — [Prime Number Proofs](/math/2026-10-09-prime-number-proofs.pdf)
 - October 2026 — [Proof by Induction](/math/2026-10-04-proof-by-induction.pdf)
 - September 2026 — [Proof by Contradiction](/math/2026-09-27-proof-by-contradiction.pdf)
 - June 2026 — [The Koch Curve and Its Friends](/math/2026-06-02-the-koch-curve-and-its-friends.pdf)
