@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- October 2026 — [Equivalence Relations](/math/2026-10-23-equivalence-relations.pdf)
 - October 2026 — [Pigeonhole Principle](/math/2026-10-18-pigeonhole-principle.pdf)
 - October 2026 — [Prime Number Proofs](/math/2026-10-09-prime-number-proofs.pdf)
 - October 2026 — [Proof by Induction](/math/2026-10-04-proof-by-induction.pdf)
