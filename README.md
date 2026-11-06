@@ -8,6 +8,7 @@ This is my collection of projects and passions — from coding and math to speec
 ## 🧮 Math
 Exploring interesting math problems, proofs, competitions, and courses.
 
+- November 2026 — [Modular Multiplication and Division](/math/2026-11-06-modular-multiplication-and-division.pdf)
 - October 2026 — [Congruences and Modular Arithmetic](/math/2026-10-29-congruences-and-modular-arithmetic.pdf)
 - October 2026 — [Equivalence Relations](/math/2026-10-23-equivalence-relations.pdf)
 - October 2026 — [Pigeonhole Principle](/math/2026-10-18-pigeonhole-principle.pdf)
