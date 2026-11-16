@@ -73,10 +73,12 @@ Exploring interesting math problems, proofs, competitions, and courses.
 
 ---
 
-## 💻 Coding & AI
-I've been experimenting with AI for building strategy games. I'll share some of my projects here later. 
+## 💻 Coding
+Building games in Python from scratch. I write the game logic myself.
 
-- Art of Problem Solving, [Python 1](https://artofproblemsolving.com/school/course/python1) (September 2026)
+- November 2026 — [Connect Four](/coding/connect-four/) — Two-player Connect Four
+- October 2026 — [Ultimate Tic Tac Toe](/coding/ultimate-tic-tac-toe/) — Two-layer Ultimate Tic-Tac-Toe 
+- September 2026 — Art of Problem Solving — [Python 1](https://artofproblemsolving.com/school/course/python1)
 
 ---
 
