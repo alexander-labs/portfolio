@@ -76,8 +76,8 @@ Exploring interesting math problems, proofs, competitions, and courses.
 ## 💻 Coding
 Building games in Python from scratch. I write the game logic myself.
 
-- November 2026 — [Connect Four](/coding/connect-four/) — Two-player Connect Four
-- October 2026 — [Ultimate Tic Tac Toe](/coding/ultimate-tic-tac-toe/) — Two-layer Ultimate Tic-Tac-Toe 
+- November 2026 — [Connect Four](/portfolio/coding/connect-four/) — Two-player Connect Four
+- October 2026 — [Ultimate Tic Tac Toe](/portfolio//coding/ultimate-tic-tac-toe/) — Two-layer Ultimate Tic-Tac-Toe 
 - September 2026 — Art of Problem Solving — [Python 1](https://artofproblemsolving.com/school/course/python1)
 
 ---
