@@ -132,6 +132,8 @@ Mentoring younger students and volunteering in programs that support the communi
 
 - Village Elder Program (2025–2026) — Weekly Monday playground mentor supporting younger students as they build and manage a collaborative “village,” helping resolve conflicts and encourage teamwork.
 
+- Bethany Girls School Fundraiser (March 2024, 2025, 2026) [Article](volunteer/Bethany Girls School Fundraiser.pdf) 
+
 - San Francisco–Marin Food Bank (2022) — Volunteered sorting donated fruit for distribution to families in need across San Francisco and Marin County.
 
 ---
