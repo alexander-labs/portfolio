@@ -126,13 +126,15 @@ Exploring history, philosophy, culture, and the human stories behind ideas.
 ## 🤝 Leadership & Service
 Mentoring younger students and volunteering in programs that support the community.
 
+- Middle School Speech Tournament - Founded and ran Middle School Fall Speech Tournament for elementary and middle school students (2026)
+
 - Conexión Buddy Leadership Program (2025–2026) — Selected as a Buddy to work with 1st–3rd graders at Connect Community Charter School (Redwood City). Leads Puzzle Labs and Story Buddies enrichment sessions focused on perseverance, problem solving, and reading. Meets once a month on Thursday.
 
 - Student Ambassador (2025–2026) — Volunteered to welcome prospective students and families, share student work, and answer questions about the Helios school experience. Helped multiple times througout the school year. 
 
 - Village Elder Program (2025–2026) — Weekly Monday playground mentor supporting younger students as they build and manage a collaborative “village,” helping resolve conflicts and encourage teamwork.
 
-- Bethany Girls School Fundraiser (March 2024, 2025, 2026) [📰](volunteer/Bethany%20Girls%20School%20Fundraiser.pdf)
+- Bethany School for Girls Fundraiser (March 2024, 2025, 2026)
 
 - San Francisco–Marin Food Bank (2022) — Volunteered sorting donated fruit for distribution to families in need across San Francisco and Marin County.
 
