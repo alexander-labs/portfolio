@@ -197,4 +197,4 @@ Vocal and theater — concerts, acting, and performances on stage.
 
 ---
 
-*Last updated: March 2026*
+*Last updated: November 2026*
